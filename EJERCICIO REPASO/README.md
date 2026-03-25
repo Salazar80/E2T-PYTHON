@@ -1,1 +1,1 @@
-# Carpeta de ejercicios de repaso
+# Ejercicios de repaso
